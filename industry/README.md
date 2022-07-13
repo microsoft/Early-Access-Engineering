@@ -1,4 +1,4 @@
-[&laquo; All Solution Accelerators](https://github.com/microsoft/early-access-engineering/)
+[&laquo; Microsoft Early Access Engineering](https://github.com/microsoft/early-access-engineering/)
 
 # Industry Solution Accelerators
 
