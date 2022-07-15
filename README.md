@@ -1,6 +1,6 @@
 <h1 align="center">
   <br/>
-  <img src="./docs/assets/eae-logo.png?raw=true" alt="Early Access Engineering" width="200" />
+  <a href="https://github.com/microsoft/early-access-engineering/"><img src="./docs/assets/eae-logo.png?raw=true" alt="Early Access Engineering" width="200" /></a>
   <br/>
   Microsoft Early Access Engineering
   <br/>
@@ -17,7 +17,10 @@
 </div>
 <br/><br/>
 
-## Solution Accelerators
+<h2>
+  <a href="#solution-accelerators" name="solution-accelerators"><img src="./docs/assets/sa-icon-purple.png?raw=true" alt="icon" width="25" /></a>
+  <span>&nbsp;Solution Accelerators</span>
+</h2>
 
 **[Azure Databricks to Microsoft Purview Lineage](https://github.com/microsoft/Purview-ADB-Lineage-Solution-Accelerator)**<br/>
 Create a connector that will transfer lineage metadata from Spark operations in Azure Databricks to Microsoft Purview.
@@ -99,7 +102,7 @@ Quickly create a Cognitive Search Solution within your data.
 
 <div align="center">
   <br/><br/>
-  <img src="./docs/assets/eae-logo-stack.png?raw=true" alt="Early Access Engineering" width="200" />
+  <a href="https://github.com/microsoft/early-access-engineering/"><img src="./docs/assets/eae-logo-stack.png?raw=true" alt="Early Access Engineering" width="200" /></a>
   <br/>
 </div>
 

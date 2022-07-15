@@ -1,4 +1,6 @@
-[&laquo; Microsoft Early Access Engineering](https://github.com/microsoft/early-access-engineering/)
+<div align="center">
+  <a href="https://github.com/microsoft/early-access-engineering/"><img src="../docs/assets/sa-icon-purple.png?raw=true" alt="icon" width="150" /></a>
+</div>
 
 # Solution Accelerators for Manufacturing
 
@@ -20,6 +22,7 @@ Develop a dashboard that provides information on the relationships between selle
 **[COVID-19 Vaccination Proof and Test Verification](https://github.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms)**<br/>
 Build a COVID-19 vaccination and test verification solution.
 
+<!--
 **[Non-Fungible Token](https://github.com/microsoft/Azure-Non-Fungible-Token-Solution-Accelerator)**<br/>
 Develop an enterprise-class NFT.
 
@@ -31,6 +34,7 @@ Build a solution that quickly surfaces customer complaints from various platform
 
 **[Azure Synapse Customer Insights Customer 360&deg;](https://github.com/microsoft/Azure-Synapse-Customer-Insights-Customer360-Solution-Accelerator)**<br/>
 Accelerate the process of creating a unified customer profile that can also segment at-risk customers.
+-->
 
 **[Microsoft Purview Custom Connector](https://github.com/microsoft/Purview-Custom-Connector-Solution-Accelerator)**<br/>
 Jump-start and shorten the development process of custom connectors for Microsoft Purview.
@@ -56,8 +60,10 @@ Quickly build Cosmos DB-based applications without the lengthy process and steep
 **[Financial Analytics Customer Revenue Growth Factor](https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor)**<br/>
 Bring together data from different systems to quickly identify the top factors leading to customer revenue growth.
 
+<!--
 **[Azure Synapse Retail Recommender](https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator)**<br/>
 Create an end-to-end solution for large retailers with an e-commerce channel to provide personalized product recommendations to users based on their purchase history, product selection in the e-commerce channel, and their activity in the physical store.
+-->
 
 **[Tradable Digital Assets](https://github.com/microsoft/Tradable-Digital-Assets-Solution-Accelerator)**<br/>
 Digitalize and exchange traditional assets, or store them in digital wallets.
@@ -71,8 +77,10 @@ Deploy a Microsoft Virtual Assistant Solution without needing to install all the
 **[Many Models (Demand Forecasting)](https://github.com/microsoft/solution-accelerator-many-models)**<br/>
 Solve complex problems by training many machine learning models to make accurate predictions for multiple specific instances.
 
+<!--
 **[Containerized Store](https://github.com/microsoft/solution-accelerator-containerized-store)**<br/>
 Build a smart, friction-less checkout using Azure Custom Vision.
+-->
 
 **[Travel Marketplace](https://github.com/microsoft/Marketplace_Blockchain_Solution_Accelerator)**<br/>
 Create an application where transactions between multiple individuals or organizations can interact through a managed marketplace platform using Azure Blockchain Services on a Quorum network.
