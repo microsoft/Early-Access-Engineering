@@ -1,7 +1,7 @@
 <h1 align="center">
   <br/>
   <a href="https://github.com/microsoft/early-access-engineering/"><img src="../docs/assets/sa-icon-purple.png?raw=true" alt="icon" width="150" /></a>
-  <br/>
+  <br/><br/>
   Industry Solution Accelerators
   <br/>
 </h1>
@@ -12,15 +12,13 @@
   <a href="./healthcare.md">Healthcare</a> •
   <a href="./manufacturing.md">Manufacturing</a> •
   <a href="./retail.md">Retail</a>
+  <br/><br/>
 </div>
-<br/><br/>
 
 <div align="center">
   <br/><br/>
   <a href="https://github.com/microsoft/early-access-engineering/">
     <img src="../docs/assets/eae-logo-stack.png?raw=true" alt="Early Access Engineering" width="200" />
   </a>
-  <br/>
-  <a href="https://github.com/microsoft/early-access-engineering/">View All Solution Accelerators</a>
   <br/>
 </div>

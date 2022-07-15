@@ -1,5 +1,7 @@
 <div align="center">
+  <br/>
   <a href="https://github.com/microsoft/early-access-engineering/"><img src="../docs/assets/sa-icon-purple.png?raw=true" alt="icon" width="150" /></a>
+  <br/><br/>
 </div>
 
 # Solution Accelerators for Manufacturing
