@@ -71,7 +71,7 @@ Create commodity price predictions and identify anomalies in the time-series dat
 Create personalized content recommendations based on user activity.
 
 **[Cosmos DB Helper](https://github.com/microsoft/CosmosDB-Solution-Accelerator-CosmosDB-Helper)**<br/>
-Quickly build Cosmos DB-based applications without the lengthy process and steep learning curve typically associated with developing CosmosDB-based apps.
+Quickly build Cosmos DB-based applications with a simplified process and faster learning curve.
 
 **[Financial Analytics Customer Revenue Growth Factor](https://github.com/microsoft/Azure-Synapse-Solution-Accelerator-Financial-Analytics-Customer-Revenue-Growth-Factor)**<br/>
 Bring together data from different systems to quickly identify the top factors leading to customer revenue growth.
