@@ -6,6 +6,17 @@
 
 # Solution Accelerators for Financial Services
 
+**[Azure Employee Network Graph with MGDC](https://github.com/microsoft/Azure-Employee-Network-Graph-Solution-Accelerator-with-MGDC)**<br/>
+Connect and automate Microsoft 365 data with Azure Synapse Analytics using Microsoft Graph Data Connect.
+
+**[Azure PDF Form Processing Automation](https://github.com/microsoft/Azure-PDF-Form-Processing-Automation-Solution-Accelerator)**<br/>
+Automate the processing of PDF forms to modernize operations, save time, and reduce costs.
+
+<!--
+**[Inventory Management for IoT Connected Coolers Solution Accelerator](https://github.com/microsoft/Inventory-Management-for-IoT-Connected-Coolers-Solution-Accelerator)**<br/>
+Monitor inventory of beverage containers in remote locations and predict future restocking needs.
+-->
+
 **[Azure Databricks to Microsoft Purview Lineage](https://github.com/microsoft/Purview-ADB-Lineage-Solution-Accelerator)**<br/>
 Create a connector that will transfer lineage metadata from Spark operations in Azure Databricks to Microsoft Purview.
 
