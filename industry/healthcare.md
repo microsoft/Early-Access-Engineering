@@ -13,7 +13,7 @@ Connect and automate Microsoft 365 data with Azure Synapse Analytics using Micro
 Automate the processing of PDF forms to modernize operations, save time, and reduce costs.
 
 <!--
-**[Inventory Management for IoT Connected Coolers Solution Accelerator](https://github.com/microsoft/Inventory-Management-for-IoT-Connected-Coolers-Solution-Accelerator)**<br/>
+**[Inventory Management for IoT Connected Coolers](https://github.com/microsoft/Inventory-Management-for-IoT-Connected-Coolers-Solution-Accelerator)**<br/>
 Monitor inventory of beverage containers in remote locations and predict future restocking needs.
 -->
 
